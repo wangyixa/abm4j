@@ -3,3 +3,4 @@ simulation with java
 爱你宝贝
 （）（）（）（）（）
 123456
+000
